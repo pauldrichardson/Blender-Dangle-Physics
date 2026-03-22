@@ -18,6 +18,7 @@ Dangle Physics is a secondary-motion engine for Blender. It automates the "swish
 The first bone in your selection is **NOT** affected by physics. This acts as your **Manual Override**. By keyframing this first link, you "drive" the physics (e.g., swishing a tail). The rest of the chain reacts naturally to the momentum you create.
 
 ## 3. SETTINGS & RECIPES
+
 ![Settings Menu](Control Panel.png)
 
 * **Stiffness:** How hard the bone tries to return to its original pose.
@@ -37,7 +38,9 @@ The first bone in your selection is **NOT** affected by physics. This acts as yo
 * **Distance:** Adjust the "cushion" padding around your collider.
 
 ## 5. BAKING & CLEANUP
+
 ![Scene Organization](Outliner.png)
+
 * **Baking:** Commits motion to keyframes for full-speed viewport playback.
 * **Remove Dangle Chain:** Completely dismantles the system and cleans up all collections and constraints.
 
