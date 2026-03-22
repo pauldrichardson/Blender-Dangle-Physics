@@ -1,4 +1,4 @@
-# DANGLE PHYSICS v5.1
+# DANGLE PHYSICS v1.0
 **Lead Developer:** Paul D. Richardson  
 **Collaborator:** Gemini  
 **Compatibility:** Blender 5.1+
