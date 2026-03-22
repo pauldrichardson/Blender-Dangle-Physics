@@ -45,4 +45,4 @@ The first bone in your selection is **NOT** affected by physics. This acts as yo
 * **Remove Dangle Chain:** Completely dismantles the system and cleans up all collections and constraints.
 
 ---
-**Credits:** Special thanks to **Steve Miller (Shteeve)**, the creator of *Wiggle 2*. This tool was built as a modern successor to keep that classic secondary-motion workflow alive in Blender 5.1+.
+**Credits:** Special thanks to **Steve Miller (Shteeve3d)**, the creator of *Wiggle 2*. This tool was built as a modern successor to keep that classic secondary-motion workflow alive in Blender 5.1+.
