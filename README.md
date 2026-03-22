@@ -19,7 +19,7 @@ The first bone in your selection is **NOT** affected by physics. This acts as yo
 
 ## 3. SETTINGS & RECIPES
 
-![Settings Menu](Control Panel.png)
+![Settings Menu](Control%20Panel.png)
 
 * **Stiffness:** How hard the bone tries to return to its original pose.
 * **Momentum:** The internal resistance of the chain.
@@ -30,7 +30,7 @@ The first bone in your selection is **NOT** affected by physics. This acts as yo
 * **Organic Tail:** Stiffness 1.0, Momentum 0.8, Gravity 0.0.
 * **The Whip Effect:** Set the tip Momentum to **0.3** and increase it (0.4, 0.5...) toward the base for a natural "wag fade."
 
-![Physics Proof](Tail Swish.png)
+![Physics Proof](Tail%20Swish.png)
 
 ## 4. ENVIRONMENT & COLLISIONS
 * **Wind:** Select a native Blender Wind Force Field. The physics responds to Strength and Noise.
