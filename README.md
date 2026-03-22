@@ -39,7 +39,7 @@ The first bone in your selection is **NOT** affected by physics. This acts as yo
 
 ## 5. BAKING & CLEANUP
 
-<img src="outliner.png" alt="Scene Organization" width="100%">
+![Scene Organization](Outliner.png)
 
 * **Baking:** Commits motion to keyframes for full-speed viewport playback.
 * **Remove Dangle Chain:** Completely dismantles the system and cleans up all collections and constraints.
